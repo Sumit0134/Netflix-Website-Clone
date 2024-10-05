@@ -6,7 +6,7 @@
 This is a clone of the Netflix India homepage, developed as part of a learning exercise to enhance web development skills. The project focuses on replicating the design and functionality of Netflix's website using HTML and CSS.
 
 ## Project Link
-Check out the live project at [Netflix India – Clone Project](https://sumit0134.github.io/Netflix-Website-Clone/)
+Check out the live project at [Netflix India – Clone Project](https://kaleidoscopic-sprinkles-11bfb8.netlify.app/)
 
 ## Technologies Used
 - **HTML** 🏗️: Provides the structure of the webpage.
