@@ -19,11 +19,6 @@ Check out the live project at [Netflix India – Clone Project](https://kaleidos
 - **Background & Overlay Techniques**: Applied **background images** and **overlay effects** to achieve a visually appealing design.
 - **CSS Transitions**: Implemented smooth **hover effects** for buttons and FAQ questions to enhance user interaction.
 
-## How to Run
-1. Clone the repository: 
-   ```bash
-   git clone https://github.com/yourusername/netflix-clone.git
-
 ## Key Features
 - **Responsive Design** 📱: Created a layout that adjusts smoothly to different screen sizes, providing a consistent experience across devices.
 - **Navigation Bar** 🧭: Designed with buttons for language selection and user sign-in.
