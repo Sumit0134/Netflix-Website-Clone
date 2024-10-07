@@ -8,6 +8,9 @@ This is a clone of the Netflix India homepage, developed as part of a learning e
 ## Project Link
 Check out the live project at [Netflix India – Clone Project](https://kaleidoscopic-sprinkles-11bfb8.netlify.app/)
 
+## Video Demonstration 🎥
+Watch the video demonstration of the project here: [Video Link](https://drive.google.com/file/d/1suWprCdFBaTTxyhXLdRuGKYvdE4dntUa/view?usp=sharing)
+
 ## Technologies Used
 - **HTML** 🏗️: Provides the structure of the webpage.
 - **CSS** 🎨: Handles the styling and layout of the webpage.
